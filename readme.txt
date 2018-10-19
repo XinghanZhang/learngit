@@ -6,3 +6,4 @@ Creating a new branch is quick.
 Creating a new branch again.
 Creating a new branch is quick and simple.
 3 - 1 is 2.
+here we have a test for adding merge.
